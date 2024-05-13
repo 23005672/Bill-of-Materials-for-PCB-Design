@@ -58,11 +58,13 @@ During the product life, components may fail needing repair or upgrade. Here the
 •	Diagnostics — Expected voltages, signal values </br>
 
 # Circuit Diagram
+![WhatsApp Image 2024-04-04 at 10 03 12 AM](https://github.com/23005672/Bill-of-Materials-for-PCB-Design/assets/138971519/6b2fc76b-91f4-46ec-99b9-dd82af993cb0)
 
 
 
 
 # Output
+![Screenshot 2024-05-13 142539](https://github.com/23005672/Bill-of-Materials-for-PCB-Design/assets/138971519/1e1f524a-4048-474e-bfcd-1a3b0e172efa)
 
 
 
